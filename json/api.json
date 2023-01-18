@@ -1,0 +1,58 @@
+[
+    {
+        "precio": 15000,
+        "id": 1,
+        "title": "OH1: Bomba OH. Bombas con el impulsor o rodete en voladizo",
+        "thumbnailUrl": " https://www.gouldspumps.com/ittgp/medialibrary/goulds/website/Products/3196-i-FRAME/Goulds_3196_i-FRAME_pump.jpg?width=200&height=162&ext=.jpg"
+    },
+    {
+        "precio": 30000,
+        "id": 2,
+        "title": "OH2: Bomba OH API. Bombas con el impulsor o rodete en voladizo",
+        "thumbnailUrl": "https://www.intech-sa.com/wp-content/uploads/2021/09/3700-goulds-09.png"
+    },
+    {
+        "precio": 35000,
+        "id": 3,
+        "title": "OH3: Bomba OH. Bombas con impulsor en voladizo, Vertical in-line",
+        "thumbnailUrl": "https://www.intech-sa.com/wp-content/uploads/2016/03/3910-API-610-Vertical-In-Line-Process-Pumps-09-300x300.png"
+    },
+    {
+        "precio": 25000,
+        "id": 4,
+        "title": "BB1: Bomba BB. Bombas apoyadas entre cojinetes",
+        "thumbnailUrl": "https://www.gouldspumps.com/ittgp/medialibrary/goulds/website/Products/3610/3610_pump_1.jpg?ext=.jpg"
+    },
+    {
+        "precio": 40000,
+        "id": 5,
+        "title": "BB2: Bomba BB API. Bombas apoyadas entre cojinetes",
+        "thumbnailUrl": "https://www.gouldspumps.com/ittgp/medialibrary/goulds/website/Products/3640/3640_pump.jpg?ext=.jpg"
+    },
+    {
+        "precio": 80000,
+        "id": 6,
+        "title": "BB3: Bomba BB API. Bombas apoyadas entre cojinetes multietapa",
+        "thumbnailUrl": "https://www.gouldspumps.com/ittgp/medialibrary/goulds/website/Products/3600/3600_pump.jpg?ext=.jpg"
+    },
+    {
+        "precio": 50000,
+        "id": 7,
+        "title": "VS1: Bomba VS. Bombas verticales suspendidas, tipo Turbina",
+        "thumbnailUrl": "https://www.gouldspumps.com/ittgp/medialibrary/goulds/website/Products/VIT/VIT_Assembly.jpg?width=167&height=296&ext=.jpg"
+    },
+    {
+        "precio": 35000,
+        "id": 8,
+        "title": "VS4: Bomba VS. Bombas verticales suspendidas, tipo Sumidero",
+        "thumbnailUrl": "https://www.gouldspumps.com/ittgp/medialibrary/goulds/website/Products/API-3171/Goulds_API_3171.jpg?width=250&height=250&ext=.jpg"
+    },
+    {
+        "precio": 75000,
+        "id": 9,
+        "title": "VS6: Bomba VS. Bombas verticales suspendidas, Turbina con caneca",
+        "thumbnailUrl": "https://www.gouldspumps.com/ittgp/medialibrary/goulds/website/Products/VIC/VIC_Assembly.jpg?width=167&height=296&ext=.jpg"
+        
+    }
+]
+
